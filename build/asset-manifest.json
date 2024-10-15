@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zonagames/static/css/main.11a524c3.css",
+    "main.js": "/zonagames/static/js/main.482593a6.js",
+    "static/js/453.56cca5f5.chunk.js": "/zonagames/static/js/453.56cca5f5.chunk.js",
+    "static/media/Login-photo.png": "/zonagames/static/media/Login-photo.c9cf683d09f0c3ca3d36.png",
+    "static/media/Icon-black.png": "/zonagames/static/media/Icon-black.9787e4d1c30d0d04a724.png",
+    "index.html": "/zonagames/index.html",
+    "main.11a524c3.css.map": "/zonagames/static/css/main.11a524c3.css.map",
+    "main.482593a6.js.map": "/zonagames/static/js/main.482593a6.js.map",
+    "453.56cca5f5.chunk.js.map": "/zonagames/static/js/453.56cca5f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a524c3.css",
+    "static/js/main.482593a6.js"
+  ]
+}
